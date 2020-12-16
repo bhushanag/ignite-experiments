@@ -1,0 +1,6 @@
+com\blu\imdg\Benchmark.class
+com\blu\dto\Person.class
+com\blu\imdg\HelloIgniteSpring.class
+com\blu\imdg\HelloIgnite.class
+com\blu\imdg\HelloThinClient.class
+com\blu\imdg\IsolatedCluster.class
